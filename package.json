@@ -1,0 +1,27 @@
+{
+  "name": "50_projects_in_50_days",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "10.0.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "styled-components": "^5.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.1",
+    "@types/react": "17.0.24",
+    "@types/styled-components": "^5.1.14",
+    "babel": "^6.23.0",
+    "babel-plugin-styled-components": "^1.8.0",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "typescript": "4.4.3"
+  }
+}
