@@ -62,6 +62,13 @@ export const TextSmall = styled.h2`
 `
 
 export const Pesquisa = styled.input`
+  width: 320px;
+  height: 32px;
+  padding: 4px 8px;
+  background-color: #eeeeee;
+  border-style: none;
+  border: #00adb5 2px solid;
+  border-radius: 4px;
 `
 
 export const StyledProjects = styled.div`

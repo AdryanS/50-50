@@ -26,7 +26,7 @@ const index: NextPage = () => {
   return (
     <>
       <Head>
-        <title>expanding - images</title>
+        <title>Expanding - Images</title>
       </Head>
 
       <Global />

@@ -8,5 +8,10 @@
         "id": 2,
         "link": "/projects/progress",
         "name": "Progress"
+    },
+    {
+        "id": 3,
+        "link": "/projects/rotating-navigation",
+        "name": "Rotating Navigation"
     }
 ]

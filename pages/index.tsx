@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useState } from "react";
 import type { NextPage } from "next";
 
 import Link from "next/link";
@@ -39,7 +39,7 @@ const Home: NextPage = () => {
             </Link>
           </TextSmall>
 
-          <form action="">
+          <form>
             <Pesquisa
               type="text"
               placeholder="faça uma pesquisa"
